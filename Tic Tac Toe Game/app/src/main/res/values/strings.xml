@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="result1">Player 1 Won The Game!!</string>
+    <string name="result2">Player 2 Won the Game!!</string>
+    <string name="result3">The game is a draw</string>
+    <string name="result4">-</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="move1">Player 1 played X in cell Numbered </string>
+    <string name="move2">Player 2 played O in cell Numbered </string>
+</resources>

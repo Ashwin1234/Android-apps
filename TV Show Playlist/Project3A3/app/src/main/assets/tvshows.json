@@ -1,0 +1,14 @@
+{
+"values":[
+{
+  "name": "Friends",
+  "image": "friends_tv.webp",
+  "url": "https://en.wikipedia.org/wiki/Friends"
+},
+{
+"name": "Big Bang Theory",
+"image": "https://cdn.newsapi.com.au/image/v1/6701e773d6f16a5f6471fe6df4f4ed9b?width=1024",
+"url": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory"
+}
+  ]
+}

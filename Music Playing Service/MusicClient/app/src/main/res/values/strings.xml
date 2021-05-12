@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicClient</string>
+    <string name="service_connected">Service Connected</string>
+    <string name="service_disconnected">Service Disconnected</string>
+    <string name="artist">\" artist name: \"</string>
+    <string name="name">\"name: \"</string>
+</resources>

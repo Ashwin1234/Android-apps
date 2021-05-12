@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project3A3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch">Launch A1 and A2</string>
+    <string name="exit">Exit A3</string>
+    <string name="a3_permission">Kaboom Permission</string>
+</resources>
